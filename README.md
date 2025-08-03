@@ -8,11 +8,11 @@
 
 HealWave takes audio from therapy sessions, coaching calls, or personal reflections and returns structured, actionable insights. It highlights:
 
-- 🔁 **Topic looping** — revisiting the same emotional themes
-- 💬 **Emotionally charged phrases** — outbursts, pain, anger, sadness
-- 🚪 **Avoidance behavior** — shifting topics, dodging confrontation
-- 🔄 **Contradictions** — conflicting statements or blame shifting
-- 👤 **Pronoun shifts** — e.g., "I" to "you", "we" to "they"
+- 🔁 **Topic looping** revisiting the same emotional themes
+- 💬 **Emotionally charged phrases** outbursts, pain, anger, sadness
+- 🚪 **Avoidance behavior** shifting topics, dodging confrontation
+- 🔄 **Contradictions** conflicting statements or blame shifting
+- 👤 **Pronoun shifts** e.g., "I" to "you", "we" to "they"
 - 🧾 **Concise session summaries** — focused around the actual speakers
 
 ---
